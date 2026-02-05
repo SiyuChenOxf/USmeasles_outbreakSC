@@ -1,5 +1,5 @@
 # Limits of Reactive Quarantine During School-Based Measles Transmission: Evidence from the 2025–2026 South Carolina Outbreak 
-Data Sources: 
+## Data Sources: 
 1. MMR vaccination coverage across all grades, 2025-2026 https://dph.sc.gov/sites/scdph/files/2025-12/45_Day_Report_25-26_20251230.pdf
 3. Measles outbreak trajectories in Spartanburg County was obtained from South Carolina Department of Health Dashboard https://dph.sc.gov/diseases-conditions/infectious-diseases/measles-rubeola/measles-dashboard
 ## Reference
