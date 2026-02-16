@@ -2,7 +2,7 @@
 ## Data Sources: 
 1. MMR vaccination coverage across all grades, 2025-2026 https://dph.sc.gov/sites/scdph/files/2025-12/45_Day_Report_25-26_20251230.pdf
 3. Measles outbreak trajectories in Spartanburg County was obtained from South Carolina Department of Health Dashboard https://dph.sc.gov/diseases-conditions/infectious-diseases/measles-rubeola/measles-dashboard
-## Reference
+## References
 1.	South Carolina Department of Public Health. 2025 measles outbreak. Accessed on February 5, 2026 through https://dph.sc.gov/diseases-conditions/infectious-diseases/measles-rubeola/2025-measles-outbreak .
 2.	South Carolina Department of Public Health. School vaccination coverage and exemption data by county, 2022–2026. Assessed on February 5, 2026 through https://dph.sc.gov/health-wellness/child-teen-health/school-vaccination-coverage-data/school-vaccination-coverage-and.
 3.	South Carolina Department of Public Health. 45-Day report of schools with required immunization certification, 2025–2026 (Revised December 29, 2025). Accessed on February 5, 2026 through https://dph.sc.gov/health-wellness/child-teen-health/vaccine-requirements-info/school-vaccination-coverage-data 
